@@ -1,65 +1,70 @@
-<h2 align="left">👋 Hello! I'm Taylor Souza</h2>
+<h1 align="center">Olá 👋, eu sou Taylor Souza</h1>
+<h3 align="center">
+🎓 Formado em Desenvolvimento de Sistemas <br/>
+💡 Apaixonado por tecnologia, especialmente por backend com Java e Spring Boot <br/>
+🚀 Em constante aprendizado, focando em Angular para se tornar full-stack
+</h3>
 
 ---
 
-### 🧰 Tech Stack
+### 💻 Sobre mim
 
-- 💻 **Languages**: Java, Kotlin, JavaScript, C#
-- 🌐 **Frontend**: React, HTML5, CSS3
-- 🔙 **Backend**: Spring Boot, Node.js (Express), MySQL, Sequelize
-- 📱 **Mobile**: Android (Kotlin)
-- 🔐 **Auth**: JWT, role-based access control
-- 💾 **Other**: Git, REST APIs
-
----
-
-### 🎓 About Me
-
-I'm a **self-taught software developer** and Systems Development student with a strong passion for backend systems, real-world applications, and modern web/mobile solutions.
-
-📌 I'm currently working on **Zelo**, a full-featured platform for caregiver hiring that involves:
-
-- 🔧 Node.js + Sequelize backend with MySQL database  
-- 🔐 JWT authentication, custom user roles and scheduling  
-- 💻 Web interface with React and responsive layout  
-- 📱 Future support for Android app (Kotlin-based)
-
-Other projects include:
-
-- 💰 **MoneyFlow** – a finance management system using Java, Spring Boot, and MySQL  
-- 🗂 **File Explorer CLI** – a Node.js-based terminal tool for navigating folders  
-- 🔐 Auth-focused APIs with user control, login/register endpoints, PDF generation, and role logic
-
-I love learning by building. I'm not afraid to dive deep into new technologies and turn ideas into working solutions.
+- 🚀 Atualmente estudando **Java com Spring Boot + MySQL**, iniciando com **Angular**
+- 🌱 Aprendendo agora: **Angular**, arquitetura de projetos full-stack
+- 🤝 Buscando colaborar em **projetos open source ou pessoais para adquirir experiência prática**
+- 🙋 Procurando ajuda com **integração entre frontend Angular e backend Spring Boot**
+- 🌐 Portfólio: [https://taylorszu.github.io/portfolio/](https://taylorszu.github.io/portfolio/)
+- 💬 Pergunte-me sobre: **Spring Boot, MySQL, lógica de programação, organização de código**
+- 📫 Como falar comigo: **taylorsouza2006@gmail.com**
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Conecte-se comigo
 
-<div align="left">
-  <a href="https://www.youtube.com/@Taylor_Sz" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" height="35" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/taylor-souza-8a4353251/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  &nbsp;
-  <a href="https://www.instagram.com/taylor_szu/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
+  <a href="https://www.instagram.com/taylor_szu/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  &nbsp;
-  <a href="https://discord.com/invite/XDBqwkx2GU" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" height="35" />
+  <a href="https://www.youtube.com/@taylor_sz" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
-  &nbsp;
-  <a href="mailto:taylorsouza2006@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+  <a href="https://discord.gg/XDBqwkx2GU" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/taylor-souza-8a4353251/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
-  </a>
-</div>
+</p>
 
 ---
 
-### 🐍 Contributions
+### 🛠️ Tecnologias e Ferramentas
 
-<img src="https://raw.githubusercontent.com/TaylorSzu/TaylorSzu/output/snake.svg" alt="Snake animation" />
+<p align="left">
+  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
+  <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+  <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
+</p>
+
+---
+
+### 📊 Estatísticas
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taylorszu&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=taylorszu&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taylorszu&" alt="GitHub Streak" />
+</p>
