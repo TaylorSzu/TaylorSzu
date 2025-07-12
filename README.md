@@ -115,7 +115,7 @@ CashFlow - Controle Financeiro
 <td valign="top">
 <h3>
 Gerenciador de Tarefas
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" alt="React" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="20"/>
 </h3>
 <p>Projeto de backend para gerenciamento de tarefas com Spring Boot, com rotas de criação, listagem e edição.</p>
