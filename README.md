@@ -137,7 +137,7 @@ Zelo - Organização Pessoal (Front + Back)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20" alt="Node.js" />
 </h3>
 <p>Aplicação React e Node.js focada em organização, rotina e produtividade. Dividida em frontend e backend conectados via API.</p>
-<a href="https://github.com/TaylorSzu/zelo-front-end">
+<a href="https://github.com/TaylorSzu/zelo-front-web">
   <img src="https://img.shields.io/badge/Frontend%20Repo-0D1117?style=for-the-badge&logo=react" alt="Zelo Frontend"/>
 </a>
 <a href="https://github.com/TaylorSzu/zelo-back-end" style="margin-left: 8px;">
