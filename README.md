@@ -71,9 +71,6 @@
 <tbody>
 <tr>
 <td align="center" valign="top" width="80">
-<a href="https://github.com/TaylorSzu/SGVE">
-<img src="https://raw.githubusercontent.com/TaylorSzu/SGVE/main/preview.png" width="150" alt="SGVE Preview"/>
-</a>
 </td>
 <td valign="top">
 <h3>
@@ -89,9 +86,6 @@ SGVE - Sistema de Gerenciamento de Vendas em Equipe
 </tr>
 <tr>
 <td align="center" valign="top">
-<a href="https://github.com/TaylorSzu/CashFlow">
-<img src="https://raw.githubusercontent.com/TaylorSzu/CashFlow/main/preview.png" width="150" alt="CashFlow Preview"/>
-</a>
 </td>
 <td valign="top">
 <h3>
@@ -108,9 +102,6 @@ CashFlow - Controle Financeiro
 </tr>
 <tr>
 <td align="center" valign="top">
-<a href="https://github.com/TaylorSzu/Gerenciador-de-Tarefas">
-<img src="https://raw.githubusercontent.com/TaylorSzu/Gerenciador-de-Tarefas/main/preview.png" width="150" alt="Gerenciador Preview"/>
-</a>
 </td>
 <td valign="top">
 <h3>
@@ -126,9 +117,6 @@ Gerenciador de Tarefas
 </tr>
 <tr>
 <td align="center" valign="top">
-<a href="https://github.com/TaylorSzu/zelo-front-end">
-  <img src="https://raw.githubusercontent.com/TaylorSzu/zelo-front-end/main/preview.png" width="150" alt="Zelo Preview"/>
-</a>
 </td>
 <td valign="top">
 <h3>
