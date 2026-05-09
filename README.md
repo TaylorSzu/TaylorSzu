@@ -4,21 +4,24 @@
 💻 Full Stack Developer | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> Java | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="20"/> Spring Boot | <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="20"/> Angular
 </h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/taylor-souza-8a4353251/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="60" />
-    <img width="5" />
+  <a href="mailto:taylorsouza2006@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.instagram.com/taylor_szu/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-    <img width="5" />
+
+  <a href="https://www.linkedin.com/in/taylor-souza-8a4353251/" target="_blank" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.youtube.com/@taylor_sz" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-    <img width="5" />
+
+  <a href="https://www.instagram.com/taylor_szu/" target="_blank" title="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://discord.gg/XDBqwkx2GU" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-    <img width="5" />
+
+  <a href="https://www.youtube.com/@taylor_sz" target="_blank" title="YouTube">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+
+  <a href="https://discord.gg/XDBqwkx2GU" target="_blank" title="Discord">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&labelColor=5865F2&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
 
