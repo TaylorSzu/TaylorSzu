@@ -40,17 +40,23 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<p>
-  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
-  <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-  <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="40" alt="Spring Boot"/>
+<img src="https://angular.io/assets/images/logos/angular/angular.svg" height="40" alt="Angular"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" height="40" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" height="40" alt="TypeScript"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" height="40" alt="React"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" height="40" alt="Node.js"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" height="40" alt="HTML"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" height="40" alt="CSS"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" height="40" alt="PostgreSQL"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" height="40" alt="MongoDB"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="Git"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="Linux"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="40" alt="Figma"/>
 </p>
 
 ---
