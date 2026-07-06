@@ -1,7 +1,10 @@
-<h1 align="center">Olá 👋, eu sou Taylor Souza</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Taylor+Oliveira+De+Souza;I+study+analysis+and+systems+development+at+Senac;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+
 <h3 align="center">
-🎓 Formado em Desenvolvimento de Sistemas <br/>
-💻 Full Stack Developer | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> Java | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="20"/> Spring Boot | <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="20"/> Angular
+Formado em Desenvolvimento de Sistemas <br/>
+Full Stack Developer | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> Java | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="20"/> Spring Boot | <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="20"/> Angular
 </h3>
 <p align="center">
   <a href="mailto:taylorsouza2006@gmail.com" title="Gmail">
@@ -27,53 +30,45 @@
 
 ---
 
-### 💻 Sobre mim
+### Sobre mim
 
-- 🚀 Atualmente estudando **Java com Spring Boot + MySQL**, iniciando com **Angular**
-- 🌱 Aprendendo agora: **Angular**, arquitetura de projetos full-stack
-- 🤝 Buscando colaborar em **projetos open source ou pessoais para adquirir experiência prática**
-- 🌐 Portfólio: [https://taylorszu.github.io/portfolio/](https://taylorszu.github.io/portfolio/)
-- 💬 Pergunte-me sobre: **Spring Boot, MySQL, lógica de programação, organização de código**
-- 📫 Como falar comigo: **taylorsouza2006@gmail.com**
+- Focado em Back-End
+- Aprendendo agora: **Angular**, arquitetura de projetos full-stack
+- Buscando colaborar em **projetos open source ou pessoais para adquirir experiência prática**
+- Portfólio: [https://taylorszu.github.io/portfolio/](https://taylorszu.github.io/portfolio/)
+- Pergunte-me sobre: **Spring Boot, MySQL, lógica de programação, organização de código**
+- Como falar comigo: **taylor.souza.dev@gmail.com**
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="40" alt="Spring Boot"/>
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" height="40" alt="Angular"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" height="40" alt="JavaScript"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" height="40" alt="TypeScript"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" height="40" alt="React"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" height="40" alt="Node.js"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" height="40" alt="HTML"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" height="40" alt="CSS"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" height="40" alt="PostgreSQL"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" height="40" alt="MongoDB"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="Git"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="Linux"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="40" alt="Figma"/>
-</p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" width="40" style="border-radius: 50%;" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="40" width="40" style="border-radius: 50%;" alt="Spring Boot"/>
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" height="40" width="40" style="border-radius: 50%;" alt="Angular"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" height="40" width="40" style="border-radius: 50%;" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" height="40" width="40" style="border-radius: 50%;" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" height="40" width="40" style="border-radius: 50%;" alt="React"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" height="40" width="40" style="border-radius: 50%;" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" height="40" width="40" style="border-radius: 50%;" alt="HTML"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" height="40" width="40" style="border-radius: 50%;" alt="CSS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" width="40" style="border-radius: 50%;" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" height="40" width="40" style="border-radius: 50%;" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" height="40" width="40" style="border-radius: 50%;" alt="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" width="40" style="border-radius: 50%;" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" width="40" style="border-radius: 50%;" alt="Linux"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" width="40" style="border-radius: 50%;" alt="Postman"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="40" width="40" style="border-radius: 50%;" alt="Figma"/>
+</p
 
----
-
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=taylorszu&show_icons=true&locale=pt-br&layout=compact" alt="Linguagens mais usadas por taylorszu" />
-</p>
-
----
-
-### 📌 Pinned Repositories
+### Pinned Repositories
 
 <table>
 <thead>
 <tr>
 <th colspan="2" style="text-align: center; font-size: 18px;">
-⭐ Se gostar de algum projeto, deixe uma estrela! ⭐
+Se gostar de algum projeto, deixe uma estrela! 
 </th>
 </tr>
 </thead>
@@ -144,3 +139,4 @@ Zelo - Organização Pessoal (Front + Back)
 </tr>
 </tbody>
 </table>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
